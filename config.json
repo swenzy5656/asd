@@ -1,0 +1,16 @@
+{
+    "token":"MTI3NjM5Mzk3NjY3MjU1MDkxMg.Gjj2Fy.sp5senZbMmg734HGagi02aka34awOCZ-iKoVyI",
+	"log":"1280536740141994045",
+    "sahip":"172772437107277824",
+    "desteksunucusu": "https://discord.gg/3z9BrthV",
+    "bot-davet":"https://discord.com/oauth2/authorize?client_id=1276393976672550912&permissions=0&integration_type=0&scope=applications.commands+bot",
+    "bot-adi":"Rau",
+    "bot-id":"1276393976672550912",
+    "website":"https://oktaydev.com.tr",
+    "durum":"Seni",
+    "prefix":"!",
+    "": "Prefix sadece şu işinze yaricaktır. /customcommands komudu kullanıldığında özel komutları eklerken başına bu prefix gelir",
+    "mesajXp": 1,
+    "sesXp":2,
+    "levelXp": 99
+}
